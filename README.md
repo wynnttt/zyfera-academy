@@ -2,6 +2,8 @@
 
 **A StarPeak Learning Hub · 星峰学习中心**
 
+[在线学习](https://wynnttt.github.io/zyfera-academy/) · [开源仓库](https://github.com/wynnttt/zyfera-academy)
+
 一个中文 Token 中转站学习网站，覆盖行业链、上游采购、API、计费、支付、稳定运行、数据安全与经营。
 
 ## 功能
@@ -53,4 +55,4 @@ node --check server.mjs
 
 MIT License，见 [LICENSE](LICENSE)。品牌 **Zyfera** 结合梓实、文远和峰的名字元素，**StarPeak** 对应星峰。项目发起成员：殷梓实、郭峰、张文远。
 
-这个项目包含源码和部署配置；公开 GitHub 仓库及线上独立地址需在实际发布后确认。
+网站由 GitHub Pages 独立托管，任何人都可以访问；更新 main 分支后自动部署。源码可下载并部署到自己的静态服务器。
